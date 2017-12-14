@@ -1,0 +1,228 @@
+<resources>
+    <string name="app_name">IUB Faculty Finder</string>
+    <string name="action_settings">Help</string>
+    <string name="title_activity_main">IUB Faculty Finder</string>
+    <string name="title_activity_main2">IUB Faculty Finder</string>
+    <string name="title_activity_main3">IUB Faculty Finder</string>
+    <string name="title_activity_eee">IUB Faculty Finder</string>
+    <string name="title_activity_ps">IUB Faculty Finder</string>
+    <string name="title_activity_mc">IUB Faculty Finder</string>
+    <string name="title_activity_eng">IUB Faculty Finder</string>
+    <string name="title_activity_sh">IUB Faculty Finder</string>
+    <string name="title_activity_law">IUB Faculty Finder</string>
+    <string name="title_activity_env">IUB Faculty Finder</string>
+    <string name="title_activity_ph">IUB Faculty Finder</string>
+    <string name="title_activity_ls">IUB Faculty Finder</string>
+
+
+
+    <string-array name="select_department">
+        <item>Select Department</item>
+        <item>Department of BBA</item>
+        <item>Department of Economics</item>
+        <item>Computer Science and Engineering</item>
+        <item>Department of EEE and ETE</item>
+        <item>Physical Science and Mathematics</item>
+        <item>Media and Communication</item>
+        <item>English and Modern Language</item>
+        <item>Social Science and Humanities</item>
+        <item>Department of Law</item>
+        <item>Environmental Science and Management</item>
+        <item>Department of Public Health</item>
+        <item>Department of Life Science</item>
+    </string-array>
+
+    <string-array name="business_department">
+        <item>Select Department</item>
+
+
+    </string-array>
+    <string name="title_activity_bb">IUB Faculty Finder</string>
+    <string name="title_activity_economics">IUB Faculty Finder</string>
+    <string name="title_activity_mgt">IUB Faculty Finder</string>
+
+    <string-array name="faculty_name_business">
+        <item>Faculty Name</item>
+        <item>Dr Sarwar Uddin Ahmed</item>
+        <item>Dr. Dilip Kumar Sen</item>
+        <item>Dr. Nadim Jahangir</item>
+        <item>Aminur Rahman</item>
+        <item>Dr. Mohammad Osman Gani</item>
+        <item>Dr. A. N. M. Shibly Noman Khan</item>
+        <item>Abul Bashar</item>
+        <item>Hanif Mahtab</item>
+        <item>Mohammed Sohel Islam</item>
+        <item>Saquib Shahriar</item>
+        <item>Dr. Samiul Parvez Ahmed</item>
+        <item>Sumita Das</item>
+        <item>Mohammad Ali Arafat</item>
+        <item>Abu Bakr Emran Salahuddin</item>
+        <item>Md. Latiful Khabir</item>
+        <item>Md Rajib Rahman</item>
+        <item>Abul Khair Jyote</item>
+        <item>Monzoor Morshed</item>
+        <item>Parvez Ahmed Sharif</item>
+        <item>Sadia Haque</item>
+        <item>Maqbool Kader Quraishi</item>
+        <item>Iftekhar Mahfuz</item>
+        <item>Suman Prosad Saha</item>
+        <item>Mohammad Fahad Noor</item>
+        <item>G.M. Wali Ullah</item>
+        <item>Md. Aynul Hoque</item>
+        <item>Naheem Mahtab</item>
+        <item>Zakia Binte Jamal</item>
+        <item>Shafiqul Alam</item>
+        <item>Ms. Sariat Rafa Khan</item>
+        <item>Dr. Ikramul Hasan</item>
+
+    </string-array>
+
+    <string-array name="Faculty_Name_Economic">
+        <item>Faculty Name</item>
+        <item>Prof. Aminur Rahman</item>
+        <item>Dr. Mohammad Osman Gani</item>
+        <item>Shamil M. Al-Islam</item>
+        <item>Tapas Kumar Paul</item>
+        <item>Khwaja Saifur Rahman</item>
+        <item>Mr.Md. Kamrul Islam</item>
+        <item>Ms. Anita Fairuz</item>
+        <item>Ms. Mumtahina Islam</item>
+    </string-array>
+
+
+    <string-array name="Faculty_Name_CSE">
+        <item> Faculty Name </item>
+        <item>Dr. Mahady Hasan</item>
+        <item>Dr. Farruk Ahmed</item>
+        <item>Dr. Ali Shihab Sabbir</item>
+        <item>Dr. Md. Ashraful Amin</item>
+        <item>Dr. Mahbub Murshed</item>
+        <item>Mohammad Noor Nabi</item>
+        <item>Subrata K. Dey</item>
+        <item>Javed Hossain</item>
+        <item>Md. Raihan Bin Rafique</item>
+        <item>Rakibul Alam</item>
+        <item>Shabnam Shahreen Sifat</item>
+        <item>Aunnoy K Mutasim</item>
+        <item>Ahammed Ullah</item>
+
+    </string-array>
+    <string-array name="Fculty_Name_EEE">
+        <item>Faculty Name  </item>
+        <item>Dr. Shahriar Khan</item>
+        <item>Dr. Khosru M. Salim</item>
+        <item>Dr. Feroz Ahmed</item>
+        <item>Dr. M. Abdur Razzak</item>
+        <item>Dr. Mustafa Habib Chowdhury</item>
+        <item>Ms. Afroza Sultana</item>
+        <item>Ms. Nitu Syed</item>
+        <item>Mr. Sameer A Khan Mojlish</item>
+        <item>Ms. Saila Ishrat Annie</item>
+        <item>Ms. Tahsin Ferdous Ara Nayna</item>
+    </string-array>
+
+    <string-array name="Faculty_Name_PS">
+        <item>Faculty Name  </item>
+        <item>Habib Bin Muzaffar</item>
+        <item>Prof. Mohammed Anwer</item>
+        <item>Shipra Banik</item>
+        <item>Mohammad Mostofa Kamal</item>
+        <item>Asma Begum</item>
+        <item>Dr. Rifat Ara Rouf</item>
+        <item>Dr.Farhad Alam</item>
+        <item>Jewel Kumer Saha</item>
+        <item>K.M.Ariful Kabir</item>
+        <item>Rumana Hossain</item>
+        <item>Proma Anwar Khan</item>
+
+    </string-array>
+
+    <string-array name="Faculty_name_MC">
+        <item>Faculty Name  </item>
+        <item>Dr. Zakir Hossain Raju</item>
+        <item>Dr. G. M. Shahidul Alam</item>
+        <item>Mr. Mohammad Masud Chowdhury</item>
+        <item>Ms. Tasneem Shahrukh</item>
+        <item>Ms. Fariya Hossain Khan</item>
+        <item>Ms. Tazeen Ahmed</item>
+        <item>Ms. Momtaz Parvin</item>
+        <item>Ms. Jessica Tartila Suma</item>
+        <item>Ms. Aditi Ahmed</item>
+        <item>Ms. Raisa Rasheeka</item>
+    </string-array>
+    <string-array name="Faculty_name_ENG">
+        <item>Faculty Name  </item>
+        <item>Dr. Towhid Bin Muzaffar</item>
+        <item>Prof. Razia Sultana Khan</item>
+        <item>Dr. Akimun Rahman</item>
+        <item>Haroonuzzaman</item>
+        <item>Syed Mazharul Islam</item>
+        <item>Sayyeda -tun- Noor Sameera</item>
+        <item>Md. Shaiful Islam</item>
+        <item>Ms. Rezina Nazneen Rimi</item>
+        <item>Ms. Saara Zabeen</item>
+        <item>Ms. Mithila Mahfuz</item>
+        <item>Naureen Rahnuma</item>
+        <item>Ms. Shaila Shams</item>
+        <item>Ms. Noora Shamsi Bahar</item>
+        <item>Ms. Andaleeb N Chowdhury</item>
+    </string-array>
+    <string-array name="Faculty_name_SH">
+        <item>Faculty Name  </item>
+        <item>Dr. Mahbub Alam</item>
+        <item>Dr. Manzurul Mannan</item>
+        <item>Nazir Ahmed</item>
+        <item>Dr. Talim Hossain</item>
+        <item>Ms. Sharmeen Ahmed</item>
+        <item>Mr. Mohammad Mahfuzul Islam</item>
+        <item>Ms. Mahbuba Dewan</item>
+        <item>Mr. Obydullah Al Marjuk</item>
+    </string-array>
+    <string-array name="Faculty_name_LAW">
+        <item>Faculty Name  </item>
+        <item>Mr. Liton Chandra Biswas</item>
+        <item>Nahid Sultana Jenny</item>
+        <item>Ms. Syeda Sakina Mumtaz Huq</item>
+    </string-array>
+    <string-array name="Faculty_name_LS">
+        <item>Faculty Name  </item>
+        <item>Dr. Rita Yusuf</item>
+        <item>Dr. Ashrafus Safa</item>
+        <item>Ms. Noshin Azra Rahman</item>
+        <item>Ms. Mariz Sintaha</item>
+        <item>Mr. Ahsan Habib Polash</item>
+        <item>Ms. Zajeba Tabashsum</item>
+        <item>Ms. Tasnimul Ferdous</item>
+        <item>Ms. Mahina Tabassum Mitul</item>
+    </string-array>
+    <string-array name="Faculty_name_PH">
+        <item>Faculty Name  </item>
+        <item>Professor M. Omar Rahman</item>
+        <item>Dr. Nafisa Huq</item>
+        <item>Ms. Samia Aziz</item>
+        <item>Dr. S M Raysul Haque</item>
+        <item>Dr. Shabareen Tisha</item>
+        <item>Ms. Tarzia Choudhury</item>
+    </string-array>
+    <string-array name="Faculty_name_ENV">
+        <item>Faculty Name  </item>
+        <item>Prof. Dr. M. Ali Hossain</item>
+        <item>Prof. Haroun Er Rashid</item>
+        <item>Prof. Dr. Lutfor Rahman</item>
+        <item>Dr. Abdul Khaleque</item>
+        <item>Dr. Md. Hafizur Rahman</item>
+        <item>Mr. Ahmed Shahnewaj Chowdhury</item>
+        <item>Ms. Shohana Huq</item>
+        <item>Mr. Chowdhury Kamrul Hasan</item>
+        <item>Ms. Kazi Sunzida Lisa</item>
+        <item>Mr. Tanvir Ahmed Haroon</item>
+        <item>Mr. Abdul Baten</item>
+        <item>Mr. Musfique Ahmed</item>
+        <item>Ms. Nabila Rahman</item>
+
+    </string-array>
+
+
+
+
+</resources>
